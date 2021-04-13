@@ -1,6 +1,6 @@
 # Version Library
 ### NeuralNet Agent
-Most up to date version of our working conversational agent
+individual project: added new feature
 
 ### Prototypes
 Where the first three prototypes were worked on then discarded
