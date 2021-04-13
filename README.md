@@ -2,7 +2,7 @@
 Computer science 310 project repository  
 ### Includes:
 * Assignment 2
-* Assignment 3
+* Assignment 3 + individual project
 ### Team 7
 * Dylan Molloy
 * Mike Zhai
