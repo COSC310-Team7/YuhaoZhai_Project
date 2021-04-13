@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3 + individual project
 Computer science 310 Team 7
 
 This project is on a conversational agent that takes word or sentence input from a user and outputs an appropriate response. Our specific conversational agent is a computer tech support agent that answers hardware and software related issues. The program was written in Python.
@@ -141,3 +141,32 @@ First word must be 'translate' then the language to be translated in like 'engli
 
 ### News API:
 The first word must be 'news' and then the 1 word topic like 'sports', then the number of results like 3. Will return links of new of that topic.
+
+Individual project features added:
+4 Api
+
+Features added:
+4 API:
+
+Twitter API: 
+![tweet 1](https://user-images.githubusercontent.com/43189136/114514994-bc631b00-9bf0-11eb-85fe-1accca48059b.png)
+First word must be “tweets” and then username. It will return the most recent tweet of that user.
+![tweet 2](https://user-images.githubusercontent.com/43189136/114515003-bf5e0b80-9bf0-11eb-85c5-cd4a7c9b8169.png)
+
+
+Wikipedia API:
+![wiki 1](https://user-images.githubusercontent.com/43189136/114515028-c4bb5600-9bf0-11eb-9474-8022b11d53ae.png)
+First word must be “wikipedia” then the searching sentence or word. Will return almost all text regarding that word/sentence available on Wikipedia.
+ ![wiki 2](https://user-images.githubusercontent.com/43189136/114515052-c9800a00-9bf0-11eb-9692-af574ca2f4c8.png)
+
+
+Google Translate API:
+ ![trans 1](https://user-images.githubusercontent.com/43189136/114515102-da308000-9bf0-11eb-892d-7f080cd11ff1.png)
+First word must be “translate” then the language to be translated in like 'english' and after that the sentence to be translated. Will return the translation of that sentence
+ ![trans 2](https://user-images.githubusercontent.com/43189136/114515116-dd2b7080-9bf0-11eb-90a9-38ce521274c0.png)
+
+
+Google Feed API:
+ ![new 1](https://user-images.githubusercontent.com/43189136/114515136-e288bb00-9bf0-11eb-9db0-414473161467.png)
+The first word must be “news” and then the 1-word topic like “sports”. Then the number of results like 3, will return links of new of that topic.
+ ![new 2](https://user-images.githubusercontent.com/43189136/114515144-e4eb1500-9bf0-11eb-995e-8f89b9a4bf58.png)
